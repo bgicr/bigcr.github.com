@@ -8,11 +8,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : BGI Cancer Research
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : bigcr
+  email : bigcr@email.test
   github : username
   twitter : username
   feedburner : feedname
@@ -80,7 +80,8 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
+    #provider : disqus
     disqus :
       short_name : jekyllbootstrap
     livefyre :
@@ -98,7 +99,8 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : false
+    #provider : google 
     google : 
         tracking_id : 'UA-123-12'
     getclicky :
