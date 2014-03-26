@@ -16,12 +16,13 @@ TODO:
 	3. What we have done.
 
     
-###Member:
+###Core Members:
 
-<ul class="posts">
-  {% for post in site.posts %}
-	<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
+{% for category in site.categories %}
+  <h4 id="{{ category[0]  }}-ref">{{ category[0] | join: "/"  }}</h4>
+  <ul>
+    {% assign pages_list = category[1] %}
+    {% include JB/pages_list %}
+  </ul>
+{% endfor %}
 
