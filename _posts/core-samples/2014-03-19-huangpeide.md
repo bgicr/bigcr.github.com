@@ -49,7 +49,11 @@ Participated in the research about the effect of human recombinant protein BMP-2
 ####Publications 
 Wu S, Huang P, Li C, Huang Y, Li X, Wang Y, Chen C, Lv Z, Tang A, Sun X, Lu J, Li W, Zhou J, Gui Y, Zhou F, Wang D, Cai Z. Telomerase reverse transcriptase gene promoter mutations help discern the origin of urogenital tumors: a genomic and molecular study. Eur Urol. 2014 Feb; 65(2):274-7.
 
-Guo G#, Sun X#, Chen C#, Wu S#, Huang P#, Li Z#, Dean M#, Huang Y, Jia W, Zhou Q, Tang A, Yang Z, Li X, Song P, Zhao X, Ye R, Zhang S, Lin Z, Qi M, Wan S, Xie L, Fan F, Nickerson ML, Zou X, Hu X, Xing L, Lv Z, Mei H, Gao S, Liang C, Gao Z, Lu J, Yu Y, Liu C, Li L, Fang X, Jiang Z, Yang J, Li C, Zhao X, Chen J, Zhang F, Lai Y, Lin Z, Zhou F, Chen H, Chan HC, Tsang S, Theodorescu D, Li Y, Zhang X, Wang J, Yang H, Gui Y, Wang J, Cai Z. Whole-genome and whole-exome sequencing of bladder cancer identifies frequent alterations in genes involved in sister chromatid cohesion and segregation. Nature Genet. 2013 Dec;45(12):1459-63
+<p>
+<a href="/2013/10/13/Whole-genome-and-whole-exome-sequencing-of-bladder-cancer-identifies-frequent-alterations-in-genes-involved-in-sister-chromatid-cohesion-and-segregation">
+Guo, Guangwu, et al. "Whole-genome and whole-exome sequencing of bladder cancer identifies frequent alterations in genes involved in sister chromatid cohesion and segregation." Nature genetics 45.12 (2013): 1459-1463.
+</a>
+</p>
 
 Wang D, Huang P, Zhu B, Sun L, Huang Q, Wang J. Induction of estrogen receptor α-36 expression by bone morphogenetic protein 2 in breast cancer cell lines. Mol Med Rep. 2012 Sep; 6 (3):591-6.
 

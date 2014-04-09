@@ -12,8 +12,14 @@ Xuanlin are now participating in genome research of esophageal squamous carcinom
 
 Xuanlin has experience in detection methods of somatic CNAs and can skilled use AI， SVG  and R. These tools are helpful for information analysis. 
 
-Main Publication:
+####Main Publication:
+<p>
+<a href="/2013/12/10/Whole-exome-sequencing-of-insulinoma-reveals-recurrent-T372R-mutations-in-YY1">
+Cao, Yanan, et al. "Whole exome sequencing of insulinoma reveals recurrent T372R mutations in YY1." Nature communications 4 (2013).
+</a>
+</p>
 
-Yongmei Song, Lin Li, Yunwei Ou, Zhibo Gao…Xuanlin huang .. Jun Wang, Qimin Zhan. Identification of genomic alterations in oesophageal squamous cell cancer.  Nature. 2014.
-
-Yanan Cao, Zhibo Gao, Lin Li …Xuanlin Huang.. Jun Wang, Guang Ning. Whole exome sequencing of insulinoma reveals recurrent T372R mutations in YY1. Nat Commun. 2013
+<p>
+<a href="/2014/03/16/Identification-of-genomic-alterations-in-oesophageal-squamous-cell-cancer/">Song, Yongmei, et al. "Identification of genomic alterations in oesophageal squamous cell cancer." Nature (2014).
+</a>
+</p>
