@@ -15,14 +15,7 @@ TODO:
 	2. What we do.
 	3. What we have done.
 
-    
-###Core Members:
-
-{% for category in site.categories %}
-  <h4 id="{{ category[0]  }}-ref">{{ category[0] | join: "/"  }}</h4>
-  <ul>
-    {% assign pages_list = category[1] %}
-    {% include JB/pages_list %}
-  </ul>
-{% endfor %}
+<p>    
+Our <a href="member.html">Members</a> and <a href="paper.html">Paper</a>.
+</p>
 
