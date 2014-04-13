@@ -1,7 +1,7 @@
 ---
 layout: post
 category :
-tags : [LiLin]
+tags : [LiLin, HuangPeiDe]
 title: Whole-genome and whole-exome sequencing of bladder cancer identifies frequent alterations in genes involved in sister chromatid cohesion and segregation
 tagline:
 ---

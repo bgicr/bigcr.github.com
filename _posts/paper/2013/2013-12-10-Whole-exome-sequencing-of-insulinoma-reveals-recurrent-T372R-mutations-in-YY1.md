@@ -1,7 +1,7 @@
 ---
 layout: post
 category : 
-tags : [LiLin]
+tags : [LiLin, HuangXuanlin]
 title: Whole exome sequencing of insulinoma reveals recurrent T372R mutations in YY1
 tagline: 
 ---
